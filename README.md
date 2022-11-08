@@ -28,7 +28,7 @@ A parte mobile é onde estão todas as funcionalidades principais, nela é poss�
 # clonar repositório
 git clone https://github.com/leolongobuco/nlw-copa-frontend-web
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto frontend
 cd nlw-copa
 cd frontend-nlw-copa
 cd web
