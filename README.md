@@ -8,7 +8,7 @@ A aplicação consiste na criação de um bolão entre amigos visando a copa do 
 
 A parte mobile é onde estão todas as funcionalidades principais, nela é possível criar ou entrar em um bolão já existente, visualizar as partidas disponíveis para realizar um palpite, realizar o palpite e analisar em qual posição do ranking do bolão está.
 
-## Modelo conceitual
+## Frontend WEB
 
 ![Frontend WEB](https://github.com/leolongobuco/nlw-copa-backend/blob/main/github_assets/frontend-web.png)
 
@@ -40,7 +40,7 @@ yarn
 yarn dev
 ```
 
-## Frontend (WEB)
+## Backend
 
 Para conhecer o desenvolvimento do projeto backend basta acessar:[Projeto Backend](https://github.com/leolongobuco/nlw-copa-backend "Projeto Backend NLW Copa")
 
