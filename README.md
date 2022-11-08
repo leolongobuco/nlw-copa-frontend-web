@@ -1,34 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NLW Copa
 
-## Getting Started
+# Sobre o projeto
 
-First, run the development server:
+NLW Copa é uma aplicação full stack web e mobile construída durante a edição da **NLW Copa**, evento organizado pela [Rocketseat](https://rocketseat.com.br "Site da Rocketseat").
+
+A aplicação consiste na criação de um bolão entre amigos visando a copa do mundo, onde na construção web a pessoa pode criar o bolão, após a criação ele recebe um código único para que os amigos consigam entrar e participar do bolão.
+
+A parte mobile é onde estão todas as funcionalidades principais, nela é possível criar ou entrar em um bolão já existente, visualizar as partidas disponíveis para realizar um palpite, realizar o palpite e analisar em qual posição do ranking do bolão está.
+
+## Modelo conceitual
+
+![Frontend WEB](https://github.com/leolongobuco/nlw-copa-backend/blob/main/github_assets/frontend-web.png)
+
+# Tecnologias utilizadas
+
+## Frontend
+
+- NextJS
+- React
+- TypeScript
+- Tailwind
+- Axios
+
+## Frontend
 
 ```bash
-npm run dev
-# or
+# clonar repositório
+git clone https://github.com/leolongobuco/nlw-copa-frontend-web
+
+# entrar na pasta do projeto back end
+cd nlw-copa
+cd frontend-nlw-copa
+cd web
+
+# instalar dependências
+yarn
+
+# executar o projeto
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Frontend (WEB)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Para conhecer o desenvolvimento do projeto backend basta acessar:[Projeto Backend](https://github.com/leolongobuco/nlw-copa-backend "Projeto Backend NLW Copa")
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+![Modelo Conceitual](https://github.com/leolongobuco/nlw-copa-backend/blob/main/github_assets/modelo-conceitual-db.png "Projeto Backend NLW Copa")
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Mobile
 
-## Learn More
+Para conhecer o desenvolvimento do projeto mobile basta acessar:[Projeto MOBILE](https://github.com/leolongobuco/nlw-copa-frontend-mobile "Projeto Mobile NLW Copa")
+![Mobile NLW Copa](https://github.com/leolongobuco/nlw-copa-backend/blob/main/github_assets/mobile-01.jpeg)
 
-To learn more about Next.js, take a look at the following resources:
+# Autor
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Leonardo Longobuco
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div>
+  <a href="https://www.linkedin.com/in/leonardo-longobuco-988237176/" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"
+  /></a>
+  <a href="mailto:longobucoleonardo@gmail.com"
+    ><img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      target="_blank"
+  /></a> 
+ <a href="https://app.rocketseat.com.br/me/leonardo-martins"
+    ><img
+      src="https://img.shields.io/badge/-ROCKETSEAT-blueviolet?style=for-the-badge"
+      target="_blank"
+  /></a> 
+</div>
