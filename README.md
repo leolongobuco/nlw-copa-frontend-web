@@ -10,7 +10,7 @@ A parte mobile é onde estão todas as funcionalidades principais, nela é poss�
 
 ## Frontend WEB
 
-![Frontend WEB](https://github.com/leolongobuco/nlw-copa-backend/blob/main/github_assets/frontend-web.png)
+![Frontend WEB](https://github.com/leolongobuco/nlw-copa-frontend-web/blob/main/github_assets/frontend-web.png)
 
 # Tecnologias utilizadas
 
@@ -44,12 +44,12 @@ yarn dev
 
 Para conhecer o desenvolvimento do projeto backend basta acessar:[Projeto Backend](https://github.com/leolongobuco/nlw-copa-backend "Projeto Backend NLW Copa")
 
-![Modelo Conceitual](https://github.com/leolongobuco/nlw-copa-backend/blob/main/github_assets/modelo-conceitual-db.png "Projeto Backend NLW Copa")
+![Modelo Conceitual](https://github.com/leolongobuco/nlw-copa-frontend-web/blob/main/github_assets/modelo-conceitual-db.png "Projeto Backend NLW Copa")
 
 ## Mobile
 
 Para conhecer o desenvolvimento do projeto mobile basta acessar:[Projeto MOBILE](https://github.com/leolongobuco/nlw-copa-frontend-mobile "Projeto Mobile NLW Copa")
-![Mobile NLW Copa](https://github.com/leolongobuco/nlw-copa-backend/blob/main/github_assets/mobile-01.jpeg)
+![Mobile NLW Copa](https://github.com/leolongobuco/nlw-copa-frontend-web/blob/main/github_assets/mobile-01.jpeg)
 
 # Autor
 
